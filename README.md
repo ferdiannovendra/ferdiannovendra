@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferdiannovendra
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently study at Universitas Surabaya, 
-- 📫 How to reach me ehnov@ferdiannovendra.com
+- 🌱 I’m currently work at PT. Bank Central Asia, Tbk 
+- 📫 How to reach me ferdiannovendra15@gmail.com
 
 
